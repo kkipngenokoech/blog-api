@@ -35,7 +35,7 @@ INSTALLED_APPS = [
     'accounts',
     'posts',
     # third party apps
-
+    'rest_framework',
     # inbuilt applications
     'django.contrib.admin',
     'django.contrib.auth',

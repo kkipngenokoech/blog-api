@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     # local apps
     'accounts',
+    'posts',
     # third party apps
 
     # inbuilt applications
